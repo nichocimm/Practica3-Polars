@@ -5,7 +5,7 @@
 <center>
 
 | Nombre                         | Número de cuenta |
-|:---------------------------- -:|:----------------:|
+|:------------------------------:|:----------------:|
 | Vega Navas Saúl                | 322088267        |
 | Cimmino Yáñez Nicholas Joseph  | 322490712        |
 | Benítez Pérez Kristian Leonel  | 322011346        |
